@@ -47,6 +47,12 @@ The objective of this dashboard is to:
 
 ---
 
+## 📷 preview
+
+![IMG_20250709_202927](https://github.com/user-attachments/assets/2a1395cc-bed0-4474-bfad-69ca45eb8006)
+
+---
+
 ## 🧠 Insights
 
 - **Peak Ordering Days:** Fridays and Saturdays
@@ -68,12 +74,6 @@ The objective of this dashboard is to:
 
 **Hemanth Kumar HC**  
 📧 [hemanthkumar057@gmail.com](mailto:hemanthkumar057@gmail.com)
-
----
-
-## 📷 preview
-
-![IMG_20250709_202927](https://github.com/user-attachments/assets/2a1395cc-bed0-4474-bfad-69ca45eb8006)
 
 ---
 
